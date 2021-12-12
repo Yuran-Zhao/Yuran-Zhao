@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=Yuran-Zhao&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" />
+<img align="" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuran-Zhao&hide=Tcl,Perl,Makefile,CSS,HTML,Yacc,Lex,Verilog&langs_count=4&layout=compact&theme=dracula&locale=en" />
+
 <!--
 **Yuran-Zhao/Yuran-Zhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
